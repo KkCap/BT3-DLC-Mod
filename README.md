@@ -11,7 +11,7 @@ Since the building procedure requires installed frameworks and tools, precompile
 - Precompilare binaries for the PAL and JAP version gonna be available in the future.
 
 ### Source code
-Coming soon :)
+The source code for the NTSC versione and the build scripts are available in the *src* folder.
 
 
 ## Installation
